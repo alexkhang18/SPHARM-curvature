@@ -1,7 +1,7 @@
 # Spherical-harmonic-representation-and-curvature-computation-of-genus-0-shapes
 ![schematic](https://github.com/user-attachments/assets/698df59b-c163-44da-9b93-100c316d382a)
 
-This is a minimum working example of spherical harmonic representation of a genus 0 shape and computation of its curvature using differential geometry principles. The code reads in a genus 0 surface mesh, extracts nodes and connectivity, creates a spherical harmonic representation of the shape, and computes the mean curvature of the shape. 
+This is a minimum working example of spherical harmonic representation of a genus 0 shape and computation of its curvature using differential geometry principles. The code reads in a genus 0 surface mesh, extracts nodes and connectivity, creates a spherical harmonic representation of the shape, and computes the mean curvature of the shape. The outputs are .vtk files which can be viewd in Paraview (https://www.paraview.org/). 
 
 References: 
 
